@@ -1,0 +1,62 @@
+html {
+    background-color: royalblue;
+}
+
+.jin_sakai {
+    
+    cursor: pointer;
+}
+
+.menu {
+    display: flex;
+    margin: 30px;
+    justify-content: space-between;
+    font-family: 'Kufam', cursive;
+}
+
+.aboutme {
+    border: 2px;
+    padding: .5px;
+    cursor: pointer;
+}
+
+.aboutmeinfo {
+    display: none;
+}
+
+.updates {
+    cursor: pointer;
+}
+
+.update_info {
+    display: none;
+}
+
+.jins-face {
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-around;
+    display: none;
+}
+
+.fri-fam {
+    cursor: pointer;
+}
+
+.fri-fam-info {
+    padding: 10px;
+    display: flex;
+    display: none;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    border: dotted;
+}
+
+html {
+    font-family: 'Kufam', cursive;
+    display: none;
+}
